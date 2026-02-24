@@ -53,12 +53,12 @@ const Contact = () => {
               Abrir WhatsApp
             </Button>
           </a>
-          <a href={emailUrl}>
+          {/* <a href={emailUrl}>
             <Button variant="outline" className="gap-2 border-border/60 text-foreground hover:bg-secondary">
               <Mail size={16} />
               Enviar e-mail
             </Button>
-          </a>
+          </a> */}
         </div>
       </div>
     </section>

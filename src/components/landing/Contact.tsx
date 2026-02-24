@@ -32,7 +32,7 @@ const Contact = () => {
           <div className="flex flex-col items-center rounded-xl border border-border/40 bg-card-gradient p-6 text-center shadow-card">
             <Mail size={22} className="mb-3 text-primary" />
             <span className="mb-1 text-xs font-medium uppercase tracking-wider text-muted-foreground">E-mail</span>
-            <span className="text-sm text-foreground">contato@trustautomation.com</span>
+            <span className="text-sm text-foreground">Em Manutenção</span>
           </div>
           <div className="flex flex-col items-center rounded-xl border border-border/40 bg-card-gradient p-6 text-center shadow-card">
             <Phone size={22} className="mb-3 text-primary" />

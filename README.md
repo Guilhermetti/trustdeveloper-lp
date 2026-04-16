@@ -1,6 +1,6 @@
-# Trust Automation — Landing Page
+# Trust Developer — Landing Page
 
-Landing page institucional da **Trust Automation And Solutions Technology**, startup focada em automações, integrações e soluções tecnológicas sob medida.
+Landing page institucional da **Trust Developer**, startup focada em automações, integrações e soluções tecnológicas sob medida.
 
 A estrutura inicial da interface foi prototipada utilizando **Lovable** (AI-assisted UI prototyping), sendo posteriormente refinada, estruturada e integrada manualmente com backend próprio em .NET.
 
@@ -21,7 +21,7 @@ A estrutura inicial da interface foi prototipada utilizando **Lovable** (AI-assi
 
 ## 🌐 Produção
 
-https://trustautomation-lp.pages.dev
+https://trustdeveloper-lp.pages.dev
 
 ---
 
@@ -73,4 +73,4 @@ Captação estruturada de leads para serviços de:
 
 ## 📄 Licença
 
-Uso privado — Trust Automation And Solutions Technology.
+Uso privado — Trust Developer.
